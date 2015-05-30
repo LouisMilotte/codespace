@@ -9,6 +9,7 @@ Template Name: Static Home Page
 
 <head>
 <meta charset="UTF-8" />
+<noscript><meta http-equiv="refresh" content="33;URL='http://www.thecode.space/?page_id=10'"/></noscript><!--Allows redirect of no script browsers -->
 <meta http-equiv="refresh" content="33;URL='http://www.thecode.space/?page_id=10'"/>
 <title>THE CODE</title>
 
